@@ -39,11 +39,12 @@ We are a diverse group of people coming from throughout the globe.
 #### PhD Projects
 {:.left}
 
-If you are interested in our research and want to undertake a PhD project with us, do not hesitate to contact. The main sources of recent PhD student funding have been [EastBio](http://www.eastscotbiodtp.ac.uk) and the [Darwin Trust of Edinburgh](https://darwintrust.bio.ed.ac.uk/edinburgh).
+If you are interested in our research and want to undertake a PhD project with us, do not hesitate to contact. The main sources of recent PhD student funding have been [EastBio](http://www.eastscotbiodtp.ac.uk) and the [Darwin Trust of Edinburgh](https://biology.ed.ac.uk/darwintrust).
 {:.left}
 
-Projects for 2025 start:
-- EastBio: [Spatial regulation of mRNAs in filamentous fungi](https://www.findaphd.com/phds/project/eastbio-spatial-regulation-of-mrnas-in-filamentous-fungi/?p179680). Deadline: January 17, 2025.
+Projects for 2026 start:
+- EastBio: [How do eukaryotic cells sense different types of stress?](https://www.findaphd.com/phds/project/eastbio-how-do-eukaryotic-cells-sense-different-types-of-stress/?p191226). Deadline: December 15, 2025.
+- Darwin Trust: [Stress sensing and cell polarity regulation](https://www.findaphd.com/phds/project/stress-sensing-and-cell-polarity-regulation/?p191005). Deadline: January 07, 2026.
 
 
 {%
